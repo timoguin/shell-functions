@@ -1,0 +1,3 @@
+[submodule "recursive-gitconfig"]
+	path = recursive-gitconfig
+	url = ./recursive-gitconfig
